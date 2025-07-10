@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 
 💼 **Currently open to:** Internship and research opportunities in Software Engineering, Web Development, and Data Science.
 
-🔭 **I’m currently working on:** 
-- A **Task Tracker** web application using HTML, CSS, and JavaScript
 
 🚀 **Skills & Tools:**
 - **Languages:** Python, C++, Java, SQL
@@ -25,10 +23,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 💬 **Fun fact:** I enjoy playing chess and am always up for a challenge!
 
 ---
-
-### Featured Projects
-
-- **[Task Tracker](https://amrit-b.github.io/Task-Tracker.github.io/)** - A responsive task management web app using HTML, CSS, and JavaScript.
 
 ### Connect with Me
 
