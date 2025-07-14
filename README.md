@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a versatile Computer Science enthusiast curren
 🌱 I’m currently learning: Advanced Database Systems, Web Development, and Python Automation.
 
 💼 Seeking: Internship and research opportunities where I can apply and grow my skills in Software Engineering, IT Support, Web Development, or Data Science.
+
 🚀 Skills & Tools
 
     Languages: Python, C++, Java, SQL, PowerShell, HTML/CSS, TypeScript
