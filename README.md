@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a versatile Computer Science enthusiast curren
 
 📫 How to reach me:
 
-    Email: 08amrit@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-bhaganagare/)
 
-    LinkedIn: Let's connect!
+[![Email](https://img.shields.io/badge/Email-08amrit@gmail.com-red)](mailto:08amrit@gmail.com) 
 
 💬 Fun fact: I enjoy playing chess and am always up for a challenge!
