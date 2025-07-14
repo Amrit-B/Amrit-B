@@ -7,35 +7,17 @@ Welcome to my GitHub profile! I'm a versatile Computer Science enthusiast curren
 💼 Seeking: Internship and research opportunities where I can apply and grow my skills in Software Engineering, IT Support, Web Development, or Data Science.
 🚀 Skills & Tools
 
-Area
-	
+    Languages: Python, C++, Java, SQL, PowerShell, HTML/CSS, TypeScript
 
-Technologies
+    IT Support & Infrastructure: Windows/macOS/Linux OS, AWS (Certified Cloud Practitioner), TeamDynamix, SCCM, AppsAnywhere
 
-Languages
-	
+    Web Development: React, Git, GitHub, VS Code, Visual Studio
 
-Python, C++, Java, SQL, PowerShell, HTML/CSS, TypeScript
+    Data Science: Pandas, NumPy, SciPy, Jupyter Notebooks
 
-IT Support & Infrastructure
-	
+    Databases: MySQL
 
-Windows/macOS/Linux OS, AWS (Certified Cloud Practitioner), TeamDynamix, SCCM, AppsAnywhere
-
-Web Development
-	
-
-React, Git, GitHub, VS Code, Visual Studio
-
-Data Science
-	
-
-Pandas, NumPy, SciPy, Jupyter Notebooks
-
-Databases
-	
-
-MySQL
+👯 Looking to collaborate on: Open-source projects, blockchain, and web development projects.
 
 👯 Looking to collaborate on: Open-source projects, blockchain, and web development projects.
 
