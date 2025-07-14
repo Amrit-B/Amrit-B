@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a versatile Computer Science enthusiast curren
 
     Databases: MySQL
 
-👯 Looking to collaborate on: Open-source projects, blockchain, and web development projects.
 
 👯 Looking to collaborate on: Open-source projects, blockchain, and web development projects.
 
