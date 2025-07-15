@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm a versatile Computer Science enthusiast curren
 
 👯 Looking to collaborate on: Open-source projects, blockchain, and web development projects.
 
+Project:
+
 Here's my tiny model to predict salary: https://amrit-b.github.io/salary-predictor-website/
 
 📫 How to reach me:
