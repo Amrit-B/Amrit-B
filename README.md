@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a versatile Computer Science enthusiast curren
 
 Project:
 
-Here's my tiny model to predict salary: https://salary-predictor-react.vercel.app
+Here's my tiny model to predict salary: https://salary-predictor-react.website
 
 📫 How to reach me:
 
