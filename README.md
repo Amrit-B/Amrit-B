@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a versatile Computer Science enthusiast curren
 Project:
 
 Dev-toolkit: https://dev-toolkit-chi.vercel.app/
+
 Salary prediction: https://salary-predictor-website.vercel.app/
 
 📫 How to reach me:
