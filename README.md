@@ -25,7 +25,7 @@ Project:
 
 Dev-toolkit: https://dev-toolkit-chi.vercel.app/
 
-Salary prediction: https://salary-predictor-website.vercel.app/
+Salary prediction: https://salary-predictor-next.vercel.app/
 
 📫 How to reach me:
 
