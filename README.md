@@ -35,4 +35,4 @@ My focus is on bridging the gap between research and production—building high-
 
 ---
 
-💬 **Fun fact:** I enjoy playing chess and optimizing code efficiency—always looking for the best move on the board and in the system!
+💬 **Fun fact:** I enjoy playing MOBA games and am always ready to team up for a match!
