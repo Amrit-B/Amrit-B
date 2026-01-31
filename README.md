@@ -35,4 +35,12 @@ My focus is on bridging the gap between research and production—building high-
 
 ---
 
+---
+### My RAG APP
+
+The application is deployed and running! Use the limk below to check it out!
+amritb.me
+
+---
+
 💬 **Fun fact:** I enjoy playing MOBA games and am always ready to team up for a match!
