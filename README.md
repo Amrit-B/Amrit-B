@@ -40,7 +40,7 @@ My focus is on bridging the gap between research and production—building high-
 
 The application is deployed and running! Use the limk below to check it out!
 
-<a href="https://www.amritb.me" target="_blank">RAG APP</a>
+[RAG APP](https://www.amritb.me/)
 
 ---
 
