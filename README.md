@@ -6,17 +6,17 @@ My focus is on bridging the gap between research and production—building high-
 
 ---
 
-🔭 **Current Focus:**
+ **Current Focus:**
 - **Inference Optimization:** Reducing latency in deep learning models using quantization and efficient data loading.
 - **AI Safety:** Developing guardrails for prompt injection and adversarial attacks in GenAI.
 - **Systems Engineering:** High-performance vectorization and memory management in Python/C++.
 
-💼 **Seeking:**
+ **Seeking:**
 - Full-time roles in **Deep Learning Engineering**, **AI Systems**, or **Machine Learning Infrastructure**.
 
 ---
 
-### 🚀 Technical Stack
+###  Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -29,7 +29,7 @@ My focus is on bridging the gap between research and production—building high-
 ---
 ---
 
-### 📫 How to reach me:
+###  How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-bhaganagare/)
 [![Email](https://img.shields.io/badge/Email-08amrit@gmail.com-red)](mailto:08amrit@gmail.com)
 
